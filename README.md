@@ -5,7 +5,7 @@
 ![Preview](preview.gif)
 
 A Python script that **parses and downloads** songs from different groups Love Live! from
-the Fandom Wiki site **love-live.fandom.com**.
+the Fandom Wiki site [**love-live.fandom.com**](https://love-live.fandom.com/).
 
 ## ⚙️ Requirements
   - [**Python 3.7.X or greater**](https://python.org/)
