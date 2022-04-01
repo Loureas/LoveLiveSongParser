@@ -5,7 +5,7 @@
 ![Preview](preview.gif)
 
 A Python script that **parses and downloads** songs from different groups Love Live! from
-the Fandom Wiki site **love-live.fandom.com**.
+the Fandom Wiki site [**love-live.fandom.com**](https://love-live.fandom.com/).
 
 ## ⚙️ Requirements
   - [**Python 3.7.X or greater**](https://python.org/)
@@ -47,8 +47,8 @@ the Fandom Wiki site **love-live.fandom.com**.
 * * *
 
 ## 🆘 Issues
-If you have any problems while running the script, you can create a new issue on GitHub or write to Telegram [**@Loureas**](tg://resolve?domain=Loureas) with a detailed problem.
+If you have any problems while running the script, you can create a new issue on GitHub or write to Telegram [**@Loureas**](https://t.me/Loureas) with a detailed problem.
 
 ## 🔧 Contribution
-You can help improve the script algorithm or translate it. Publish changes in Pull Request or Telegram [**@Loureas**](tg://resolve?domain=Loureas). All changes will be reviewed.
+You can help improve the script algorithm or translate it. Publish changes in Pull Request or Telegram [**@Loureas**](https://t.me/Loureas). All changes will be reviewed.
 
